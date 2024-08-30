@@ -1,0 +1,2 @@
+class SprintReview < ApplicationRecord
+end
