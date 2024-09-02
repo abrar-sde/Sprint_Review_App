@@ -1,6 +1,6 @@
 # Sprint Review Dashboard
 
-The Sprint Review Dashboard is a comprehensive web application designed to manage and facilitate sprint reviews in Agile teams. The app allows team members to collaborate in real-time during sprint reviews, ensuring that feedback is collected efficiently and stored securely.
+The Sprint Review Dashboard is a comprehensive web application designed to manage and facilitate sprint reviews in Agile teams.
 
 ## Features
 
@@ -34,7 +34,6 @@ The Sprint Review Dashboard is a comprehensive web application designed to manag
     bundle install
     rails db:create
     rails db:migrate
-    rails db:seed (if any seed data is necessary)
     ```
 
 3. **Frontend Setup**:
@@ -67,6 +66,5 @@ The Sprint Review Dashboard is a comprehensive web application designed to manag
 
 - **Admin Login**: Use the admin credentials to log in and access the dashboard.
 - **Create a Sprint Review**: Click on "Create New Meeting" to start a new sprint review. The sprint review form will appear, where you can input feedback.
-- **Real-Time Review**: During the sprint review, the form and timer are synchronized across all users in real-time.
 - **Save Reviews**: Once the timer ends, the inputs can be saved, and the review is stored in the database.
 
