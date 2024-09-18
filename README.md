@@ -60,7 +60,7 @@ The Sprint Review Dashboard is a comprehensive web application designed to manag
     npm start
     ```
 
-    The React app should now be running on `http://localhost:3001`, and the Rails API should be running on `http://localhost:3000`.
+    The Rails api should now be running on `http://localhost:3000`, and the React APP should be running on `http://localhost:3001`.
 
 ## Usage
 
