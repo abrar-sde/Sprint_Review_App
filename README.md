@@ -1,6 +1,6 @@
-# Sprint Review Dashboard
+# SPRINT REVIEW & RETRO
 
-The Sprint Review Dashboard is a comprehensive web application designed to manage and facilitate sprint reviews in Agile teams.
+The Sprint Review & Retro is a comprehensive web application designed to manage and facilitate sprint reviews in Agile teams.
 
 ## Features
 
